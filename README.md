@@ -15,17 +15,32 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
       <br>HTML
     </td>
     <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="nextjs" width="48" height="48" />
-      <br>CSS
-    </td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="nestjs" width="48" height="48" />
-      <br>JavaScript
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />
+        <br>CSS
     </td>
     <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="nestjs" width="48" height="48" />
-      <br>PHP
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+        <br>JavaScript
     </td>
-
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" />
+        <br>PHP
+    </td>
   </tr>
 </table>
+
+- Frameworks CSS
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="Bootstrap" width="48" height="48" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bulma" width="48" height="48" />
+        <br>Bulma
+    </td>
+  </tr>
+</table>
+
