@@ -29,7 +29,7 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
   </tr>
 </table>
 
-- Frameworks CSS
+- CSS frameworks
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
   </tr>
 </table>
 
-- Frameworks JavaScript
+- JavaScript frameworks
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
   </tr>
 </table>
 
-- CMS & Frameworks PHP
+- CMS & Framework PHP
 
 <table>
   <tr>
