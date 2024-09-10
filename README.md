@@ -74,3 +74,14 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
   </tr>
 </table>
 
+- Database Management Systems
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="48" height="48" />
+        <br>MySQL
+    </td>
+  </tr>
+</table>
+
