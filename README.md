@@ -85,3 +85,5 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
   </tr>
 </table>
 
+---
+[![](https://visitcount.itsvg.in/api?id=Rayiumir&icon=0&color=0)](https://visitcount.itsvg.in)
