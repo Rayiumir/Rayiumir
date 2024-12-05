@@ -29,7 +29,7 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
   </tr>
 </table>
 
-- CSS frameworks
+- CSS Frameworks
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
   </tr>
 </table>
 
-- JavaScript frameworks
+- JavaScript Frameworks
 
 <table>
   <tr>
@@ -55,6 +55,17 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="48" height="48" />
         <br>VueJS
+    </td>
+  </tr>
+</table>
+
+- JavaScript Library
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="48" height="48" />
+      <br>JQuery
     </td>
   </tr>
 </table>
