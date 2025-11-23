@@ -41,6 +41,10 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="Bulma" width="48" height="48" />
         <br>Bulma
     </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="48" height="48" />
+        <br>TailwindCSS
+    </td>
   </tr>
 </table>
 
@@ -67,6 +71,10 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="48" height="48" />
       <br>JQuery
     </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="48" height="48" />
+      <br>ReactJS
+    </td>
   </tr>
 </table>
 
@@ -92,6 +100,25 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="48" height="48" />
         <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
+        <br>MongoDB
+    </td>
+  </tr>
+</table>
+
+- Cross-Platform
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="ElectronJS" width="48" height="48" />
+        <br>ElectronJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="48" height="48" />
+        <br>NodeJS
     </td>
   </tr>
 </table>
