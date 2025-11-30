@@ -123,16 +123,4 @@ Experienced Backend and Frontend Developer with 13 years of expertise in develop
   </tr>
 </table>
 
-# Statistics
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rayiumir&show_icons=true&theme=dark&card_width=100%"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rayiumir&show_icons=true&card_width=100%"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rayiumir&show_icons=true&card_width=100%" />
-</picture>
